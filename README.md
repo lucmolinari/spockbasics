@@ -1,2 +1,2 @@
-Código fonte do projeto que mostra como integrar o Spock ao Maven e ao Eclipse.
-Mais informações em: http://lucianomolinari.wordpress.com/2014/07/22/integrando-spock-com-maveneclipse
+Source code of the project that introduces Spock and shows how to integrate it to Maven and Eclipse.
+You can find more info at http://lucianomolinari.com/integrating-spock-maven-eclipse/
